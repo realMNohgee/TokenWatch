@@ -1,4 +1,5 @@
 # TokenWatch 📊
+![CI](https://github.com/realMNohgee/tokenwatch/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Real-time context window monitor.** Track token usage during agent sessions. Warn at configurable thresholds and suggest what to summarize or truncate.
 
